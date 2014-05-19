@@ -1,1 +1,2 @@
 This is a document called Document1.txt
+Adding a line here to and the merge this branch
